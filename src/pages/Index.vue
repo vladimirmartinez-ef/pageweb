@@ -1,5 +1,8 @@
 <template>
   <q-page class="flex flex-center">
+    <div style="text-shadow: 0 0 3px green">
+        Practica Diseño II - despliegue
+    </div>
     <img
       alt="Quasar logo"
       src="~assets/quasar-logo-vertical.svg"
