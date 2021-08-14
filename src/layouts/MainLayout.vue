@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title>
-          Quasar App
+          Quasar App by Vladimir Martínez
         </q-toolbar-title>
 
         <div>Quasar v{{ $q.version }}</div>
